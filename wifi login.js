@@ -9,6 +9,9 @@
 // @grant        none
 // ==/UserScript==
 
+//made by aryan tyagi
+//CSE 2nd year, ABES Engineering College, Ghaziabad
+
 (function() {
     'use strict';
 
